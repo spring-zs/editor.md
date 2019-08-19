@@ -9,7 +9,7 @@
 ![](https://img.shields.io/github/issues/pandao/editor.md.svg)
 ![](https://img.shields.io/bower/v/editor.md.svg)
 
-**Editor.md** : The open source embeddable online markdown editor (component), based on CodeMirror & jQuery & Marked.
+**Editor.md** : The open source embeddable online markdown editor (component), **based on CodeMirror & jQuery & Marked**.
 
 ### Features
 
